@@ -1,3 +1,0 @@
-git ignore file 2
-adding text into ignore2.txt
-adding text into ignore2.txt after staging
