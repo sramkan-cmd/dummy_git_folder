@@ -2,3 +2,4 @@ trying to add some text
 writing more text to sample file
 3rd line
 want a merge conflict from new_branch_from_testing_branch branch
+want a merge conflict from testing_branch branch
